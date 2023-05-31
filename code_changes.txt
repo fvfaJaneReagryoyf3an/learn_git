@@ -1,1 +1,2 @@
 // Fix bug in user authentication
+// Add new login validation
