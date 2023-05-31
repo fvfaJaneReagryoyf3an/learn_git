@@ -3,3 +3,4 @@
 // Update README documentation
 // Refactor database queries
 // Add error handling
+// Improve code comments
