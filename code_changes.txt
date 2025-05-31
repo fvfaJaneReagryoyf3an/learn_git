@@ -22,3 +22,4 @@
 // Add new login validation
 // Update README documentation
 // Refactor database queries
+// Add error handling
