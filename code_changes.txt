@@ -21,3 +21,4 @@
 // Fix bug in user authentication
 // Add new login validation
 // Update README documentation
+// Refactor database queries
